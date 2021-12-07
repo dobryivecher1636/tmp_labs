@@ -1,0 +1,13 @@
+D:\Desktop\lab5_threads\lab5_threads\bin\Debug\netcoreapp3.1\lab5_threads.exe
+D:\Desktop\lab5_threads\lab5_threads\bin\Debug\netcoreapp3.1\lab5_threads.deps.json
+D:\Desktop\lab5_threads\lab5_threads\bin\Debug\netcoreapp3.1\lab5_threads.runtimeconfig.json
+D:\Desktop\lab5_threads\lab5_threads\bin\Debug\netcoreapp3.1\lab5_threads.runtimeconfig.dev.json
+D:\Desktop\lab5_threads\lab5_threads\bin\Debug\netcoreapp3.1\lab5_threads.dll
+D:\Desktop\lab5_threads\lab5_threads\bin\Debug\netcoreapp3.1\lab5_threads.pdb
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.csprojAssemblyReference.cache
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.AssemblyInfoInputs.cache
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.AssemblyInfo.cs
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.csproj.CoreCompileInputs.cache
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.dll
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.pdb
+D:\Desktop\lab5_threads\lab5_threads\obj\Debug\netcoreapp3.1\lab5_threads.genruntimeconfig.cache
