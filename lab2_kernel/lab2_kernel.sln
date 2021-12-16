@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab2_kernel", "lab2_kernel\lab2_kernel.pyproj", "{A85F5563-0464-4FD5-9E18-39C454AC2721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85F5563-0464-4FD5-9E18-39C454AC2721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85F5563-0464-4FD5-9E18-39C454AC2721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DECC9C46-8E7C-4A56-B9F7-8E206576BDFC}
+	EndGlobalSection
+EndGlobal
