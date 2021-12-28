@@ -1,0 +1,13 @@
+D:\Desktop\lab9_patterns\composite\composite\bin\Debug\netcoreapp3.1\composite.exe
+D:\Desktop\lab9_patterns\composite\composite\bin\Debug\netcoreapp3.1\composite.deps.json
+D:\Desktop\lab9_patterns\composite\composite\bin\Debug\netcoreapp3.1\composite.runtimeconfig.json
+D:\Desktop\lab9_patterns\composite\composite\bin\Debug\netcoreapp3.1\composite.runtimeconfig.dev.json
+D:\Desktop\lab9_patterns\composite\composite\bin\Debug\netcoreapp3.1\composite.dll
+D:\Desktop\lab9_patterns\composite\composite\bin\Debug\netcoreapp3.1\composite.pdb
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.csprojAssemblyReference.cache
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.AssemblyInfoInputs.cache
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.AssemblyInfo.cs
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.csproj.CoreCompileInputs.cache
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.dll
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.pdb
+D:\Desktop\lab9_patterns\composite\composite\obj\Debug\netcoreapp3.1\composite.genruntimeconfig.cache
