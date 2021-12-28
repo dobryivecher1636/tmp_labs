@@ -1,0 +1,13 @@
+D:\Desktop\lab9_patterns\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.exe
+D:\Desktop\lab9_patterns\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.deps.json
+D:\Desktop\lab9_patterns\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.runtimeconfig.json
+D:\Desktop\lab9_patterns\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.runtimeconfig.dev.json
+D:\Desktop\lab9_patterns\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.dll
+D:\Desktop\lab9_patterns\adapter\adapter\bin\Debug\netcoreapp3.1\adapter.pdb
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.csprojAssemblyReference.cache
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.AssemblyInfoInputs.cache
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.AssemblyInfo.cs
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.csproj.CoreCompileInputs.cache
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.dll
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.pdb
+D:\Desktop\lab9_patterns\adapter\adapter\obj\Debug\netcoreapp3.1\adapter.genruntimeconfig.cache
