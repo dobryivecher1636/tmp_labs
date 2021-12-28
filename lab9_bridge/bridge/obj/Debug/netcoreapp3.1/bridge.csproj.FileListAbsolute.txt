@@ -1,0 +1,13 @@
+D:\Desktop\lab9_patterns\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.exe
+D:\Desktop\lab9_patterns\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.deps.json
+D:\Desktop\lab9_patterns\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.json
+D:\Desktop\lab9_patterns\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.runtimeconfig.dev.json
+D:\Desktop\lab9_patterns\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.dll
+D:\Desktop\lab9_patterns\bridge\bridge\bin\Debug\netcoreapp3.1\bridge.pdb
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csprojAssemblyReference.cache
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfoInputs.cache
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.AssemblyInfo.cs
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.csproj.CoreCompileInputs.cache
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.dll
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.pdb
+D:\Desktop\lab9_patterns\bridge\bridge\obj\Debug\netcoreapp3.1\bridge.genruntimeconfig.cache
